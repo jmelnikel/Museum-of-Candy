@@ -3,6 +3,23 @@ body {
   font-family: "Nunito", sans-serif;
 }
 
+.writeup h2 {
+  color: white;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.writeup h2 span {
+  color: #ea1c2c;
+}
+
+.writeup p {
+  color: #ea1c2c;
+  font-weight: 100;
+  font-size: 1.125rem;
+  line-height: 2.0;
+}
+
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 100;
