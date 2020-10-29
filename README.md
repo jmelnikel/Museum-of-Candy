@@ -1,5 +1,5 @@
 # Museum of Candy 1.0.0
-This is a fictional website for educational purposes. It is a code-along project from The WebDeveloper Bootcamp 2020 by Colt Steele on Udemy. There are a few stylistic changes made that are different from the course project.  
+This is a fictional website for educational purposes. It is a code-along project from [The WebDeveloper Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele. There are a few minor stylistic changes made that are different from the course project.  
 * Photos used in this project are from [Unsplash](https://unsplash.com) and are open source.
 
 ---
@@ -11,7 +11,10 @@ This project provided practice with:
 4. HTML and CSS styling customization.
 
 ---
-## Setup
+## Getting Started
+1. Clone the repo to your local machine.
+2. Navigate to the main project folder.
+3. Open `index.html` in your browser of choice.
 
 ---
 ## Screenshots
