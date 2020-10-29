@@ -15,9 +15,15 @@ This project provided practice with:
 
 ---
 ## Screenshots
+#### Fullsize site - basic layout, nav bar hover effect
 !["Fullsize site - basic layout, nav bar hover effect"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.19.54%20PM.png?raw=true)
+#### Fullsize site - basic layout, nav bar color effect
 !["Fullsize site - basic layout, nav bar color effect"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.20.08%20PM.png?raw=true)
+#### Fullsize site - basic layout
 !["Fullsize site - basic layout"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.20.17%20PM.png?raw=true)
+#### Reduced size site - responsive design
 !["Reduced size site - responsive design"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.20.37%20PM.png?raw=true)
+#### Reduced size site - responsive design, collapsed nav bar with hover effect
 !["Reduced size site - responsive design, collapsed nav bar with hover effect"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.21.01%20PM.png?raw=true)
+#### Reduced size site - responsive design, collapsed nav bar
 !["Reduced size site - responsive design, collapsed nav bar"](https://github.com/jmelnikel/Museum-of-Candy/blob/master/screenShots/Screen%20Shot%202020-10-29%20at%203.21.16%20PM.png?raw=true)
